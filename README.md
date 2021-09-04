@@ -27,6 +27,8 @@ A quiz that when answered will predict whether or not you will survive the Titan
 #### Project 3 - [Twitter Posting Slackbot](https://github.com/NargesEl/slack_bot)
 A Slackbot that posts tweets by a Ines Montani every few minutes.
 
+<img width="818" alt="Screenshot 2021-08-21 at 13 30 51" src="https://user-images.githubusercontent.com/80095773/130320376-9e1391af-afa9-47ee-814b-b5e8bc6f7a08.png">
+
 #### Project 4 - [Lyrics Classifier](https://github.com/NargesEl/lyrics_text_classification)
 A lyrics classifier (Queen and The Beatles). User enters some text and the classifier predicts which band has or would most likely sing those lyrics. 
 
