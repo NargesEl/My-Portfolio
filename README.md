@@ -1,4 +1,4 @@
-<img width="341" alt="profile copy" src="https://user-images.githubusercontent.com/80095773/132108875-111d6a64-2901-4632-b9e6-f68f1f305338.png">
+![profile](https://user-images.githubusercontent.com/80095773/132109290-85da6028-dd7a-4958-a243-73f21d644691.png)
 
 ## Welcome to my protfolio!
 
