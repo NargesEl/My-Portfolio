@@ -9,9 +9,9 @@ I am an aspiring data scientist with a background in education and linguistics. 
 
 For more you can check out my academic & professional details on my [LinkedIn](https://www.linkedin.com/in/nelazm/).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Below you can have a look at some of my projects. 
 
-### Markdown
+### Projects
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
