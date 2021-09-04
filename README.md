@@ -1,3 +1,5 @@
+<img width="341" alt="profile copy" src="https://user-images.githubusercontent.com/80095773/132108875-111d6a64-2901-4632-b9e6-f68f1f305338.png">
+
 ## Welcome to my protfolio!
 
 Hi, I'm **Narges**. 
