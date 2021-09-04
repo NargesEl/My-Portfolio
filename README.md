@@ -19,6 +19,9 @@ An animated scatterplot showing the correlation between life expectancy and fert
 #### Project 2 - [Titanic Survival Quiz](https://github.com/NargesEl/will_you_survive_the_Titanic)
 A quiz that when answered will predict whether or not you will survive the Titanic tradgy (with about 81% accuracy).
 
+![Screenshot 2021-08-24 at 10 59 38](https://user-images.githubusercontent.com/80095773/132109132-12a9fdb8-0620-4e4b-b2c5-4537790cef3d.png)
+![Screenshot 2021-08-24 at 10 54 48](https://user-images.githubusercontent.com/80095773/132109133-7eb7388e-b0ec-402d-8bc6-4c60e943fb0f.png)
+
 #### Project 3 - [Twitter Posting Slackbot](https://github.com/NargesEl/slack_bot)
 A Slackbot that posts tweets by a Ines Montani every few minutes.
 
@@ -27,6 +30,9 @@ A lyrics classifier (Queen and The Beatles). User enters some text and the class
 
 #### Project 5 - [Toy Recommender](https://github.com/NargesEl/montessori_toy_recommender)
 A Montessori toy recommender that gives 5 recommendations depending on user input.
+
+![Toy Recommender](https://user-images.githubusercontent.com/80095773/132109126-04bdc02d-2b74-407d-bdfb-74eeb42ae73c.gif)
+
 
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
