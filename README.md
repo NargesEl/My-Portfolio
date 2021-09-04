@@ -1,5 +1,7 @@
 ## Welcome to my protfolio!
 
+Hi, I'm **Narges**. I am an aspiring data scientist with a background in education and linguistics. I recently graduated from the data science bootcamp at Spiced Academy. During this bootcamp I learned Python and SQL. I worked on data wrangling, visualization, training predictive modeling. I worked with Docker, AWS, MondoDB, Postgres, Pandas, Numpy, Seaborn, Matplotlib, Scikit-learn, TensorFlow, Spacy and more.
+
 You can use the [editor on GitHub](https://github.com/NargesEl/portfolio/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
