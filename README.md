@@ -13,6 +13,22 @@ Below you can have a look at some of my projects.
 
 ### Projects
 
+#### Project 1 - [Animated Scatterplot](https://github.com/NargesEl/visual_analysis_of_gapminder_dataset)
+An animated scatterplot showing the correlation between life expectancy and fertilits from 1960 to 2015.
+
+#### Project 2 - [Titanic Survival Quiz](https://github.com/NargesEl/will_you_survive_the_Titanic)
+A quiz that when answered will predict whether or not you will survive the Titanic tradgy (with about 81% accuracy).
+
+#### Project 3 - [Twitter Posting Slackbot](https://github.com/NargesEl/slack_bot)
+A Slackbot that posts tweets by a Ines Montani every few minutes.
+
+#### Project 4 - [Lyrics Classifier](https://github.com/NargesEl/lyrics_text_classification)
+A lyrics classifier (Queen and The Beatles). User enters some text and the classifier predicts which band has or would most likely sing those lyrics. 
+
+#### Project 5 - [Toy Recommender](https://github.com/NargesEl/montessori_toy_recommender)
+A Montessori toy recommender that gives 5 recommendations depending on user input.
+
+
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
@@ -32,8 +48,6 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
 
