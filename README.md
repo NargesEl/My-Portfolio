@@ -14,7 +14,7 @@ Below you can have a look at some of my projects.
 ## Projects
 
 #### Project 1 - [Animated Scatterplot](https://github.com/NargesEl/visual_analysis_of_gapminder_dataset)
-An animated scatterplot showing the correlation between life expectancy and fertilits from 1960 to 2015.
+An animated scatterplot showing the correlation between life expectancy and fertility from 1960 to 2015.
 
 ![life_expectancy_and_fertility](https://user-images.githubusercontent.com/80095773/130370121-7f1dae17-83e2-4f8f-8d35-dfd268909f26.gif)
 
