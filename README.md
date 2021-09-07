@@ -40,7 +40,19 @@ A lyrics classifier (Queen and The Beatles). User enters some text and the class
 
 
 
-#### Project 5 - [Toy Recommender](https://github.com/NargesEl/montessori_toy_recommender)
+#### Project 5 - [Metabase dashboard](https://github.com/NargesEl/SQL-and-Metabase)
+A dashboard created on Metabase summarizing the Northwind Database using SQL and AWS.
+
+<img width="1393" alt="Screenshot 2021-06-12 at 12 02 16" src="https://user-images.githubusercontent.com/80095773/132405160-e9270b0e-016f-4877-b1b0-43df285f8af5.png">
+<img width="1412" alt="Screenshot 2021-06-13 at 23 58 24" src="https://user-images.githubusercontent.com/80095773/132405168-c5f06767-4748-4480-b666-2be955e7ea54.png">
+<img width="1374" alt="Screenshot 2021-06-13 at 23 58 49" src="https://user-images.githubusercontent.com/80095773/132405172-c764b0ef-b219-4448-9f89-ae2e73d74d6a.png">
+<img width="1427" alt="Screenshot 2021-06-14 at 08 59 48" src="https://user-images.githubusercontent.com/80095773/132404613-4c2dab84-83f1-48e7-9ec5-89e71a919612.png">
+
+
+
+
+
+#### Project 6 - [Toy Recommender](https://github.com/NargesEl/montessori_toy_recommender)
 A Montessori toy recommender that gives 5 recommendations depending on user input.
 
 ![Toy Recommender](https://user-images.githubusercontent.com/80095773/132109126-04bdc02d-2b74-407d-bdfb-74eeb42ae73c.gif)
