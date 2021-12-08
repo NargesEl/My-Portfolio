@@ -9,8 +9,7 @@ Hi, I'm **Narges**.
 
 I am an aspiring data scientist with a background in education and linguistics. I recently graduated from the data science bootcamp at Spiced Academy. During this bootcamp I learned Python and SQL. I worked on data wrangling, visualization, training predictive modeling. I worked with Docker, AWS, MondoDB, Postgres, Pandas, Numpy, Seaborn, Matplotlib, Scikit-learn, TensorFlow, Spacy and more.
 
-
-For more you can check out my academic & professional details on my [LinkedIn](https://www.linkedin.com/in/nelazm/).
+At the end of this page you can see some of my acquired certificates. For more you can check also out my academic & professional details on my [LinkedIn](https://www.linkedin.com/in/nelazm/).
 
 Below you can have a look at some of my projects. 
 
@@ -59,3 +58,11 @@ A dashboard created on Metabase summarizing the Northwind Database using SQL and
 A Montessori toy recommender that gives 5 recommendations depending on user input.
 
 ![Toy Recommender](https://user-images.githubusercontent.com/80095773/132109126-04bdc02d-2b74-407d-bdfb-74eeb42ae73c.gif)
+
+
+## Certificates:
+
+![SQL cert](https://user-images.githubusercontent.com/80095773/145263978-e1014587-f859-4a1b-8dc7-6dc709639269.jpeg)
+
+
+
